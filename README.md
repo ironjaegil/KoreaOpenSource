@@ -2,10 +2,10 @@
 
 국산 오픈 소스 프로젝트들을 정리한 Repository입니다. 추가하시고 싶으신 내용은 Issues나 Pull Requests를 이용해주세요.
 
-#### JavaScript UI framework
+#### JavaScript UI Framework
 * [AXISJ](http://axisj.com) A full-stack JavaScript UI framework, It can be used easily and lightly, by excluding the load which a developer does not intend or which is heavier than application.
 
-#### JavaScript MVC framework
+#### JavaScript MVC Framework
 * [tipJS](http://tipjs-team.github.io/tipJS/) A small, simple, and effective JavaScript MVC Framework.
 
 #### JavaScript Library for Browser
@@ -22,7 +22,7 @@
 #### Database Tool
 * [올챙이](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
 
-#### Document Tool
+#### Document Editor
 * [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown
 
 ##### 작성자
