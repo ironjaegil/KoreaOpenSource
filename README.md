@@ -22,4 +22,4 @@
 * [올챙이](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
 
 ##### 작성자
-심영재 (hanul@hanul.me)
+[심영재](http://hanul.me)
