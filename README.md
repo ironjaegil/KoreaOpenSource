@@ -9,6 +9,7 @@
 * [tipJS](http://tipjs-team.github.io/tipJS/) A small, simple, and effective JavaScript MVC Framework.
 
 #### JavaScript Library for Browser
+* [JindoJS](http://jindo.dev.naver.com/jindo_home/JindoJS.html) Javascript Application 제작시에 반복적으로 발생하는 로직을 컴포넌트화하여 결과물의 품질을 향상시키기 위한 목적으로 작성되었습니다.
 * [bsJS](https://github.com/projectBS/bsJS) A JavaScript library for DOM, CORE, utility and so on.
 
 #### Network Framework
@@ -20,6 +21,9 @@
 
 #### Database Tool
 * [올챙이](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
+
+#### Document Tool
+* [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown
 
 ##### 작성자
 [심영재](http://hanul.me)
