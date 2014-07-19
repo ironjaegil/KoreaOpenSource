@@ -20,6 +20,7 @@
 * [그누보드](http://sir.co.kr) 일반적인 홈페이지에서 주로 사용하는 회원관리 및 게시판관리를 쉽게하기 위하여 개발된 웹프로그램 입니다.
 
 #### Database
+* [CUBRID](http://www.cubrid.com) 국내 유일의 오픈소스 DBMS로서, 인터넷 서비스 최적의 DBMS을 지향하고 있습니다.
 * [올챙이(Tadpole DB Hub)](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
 
 #### Data Mining
@@ -30,6 +31,9 @@
 
 #### Documentation
 * [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown.
+
+#### 기타
+* [Yobi](http://yobi.io) 소프트웨어 개발에 필요한 기능들을 사용하기 편리하게 웹으로 묶은 협업 개발 플랫폼입니다.
 
 ##### 작성자
 [심영재](http://hanul.me)
