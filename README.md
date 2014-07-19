@@ -4,6 +4,7 @@
 
 #### UI
 * [AXISJ](http://axisj.com) A full-stack JavaScript UI framework, It can be used easily and lightly, by excluding the load which a developer does not intend or which is heavier than application.
+* [JUI](http://seogi1004.github.io/jui/) JUI는 제니퍼소프트의 차기작인 HTML5 기반의 APM 솔루션인 JENNIFER5에서 사용되는 UI 컴포넌트를 정리한 라이브러리입니다.
 
 #### MVC
 * [tipJS](http://tipjs-team.github.io/tipJS/) A small, simple, and effective JavaScript MVC Framework.
