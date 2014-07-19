@@ -25,6 +25,9 @@
 #### Data Mining
 * [Ankus](http://openankus.org) MapReduce-based data mining / machine learning algorithms library.
 
+#### QA
+* [UrQA](https://github.com/UrQA/URQA-Server) Crash report and QA for Android.
+
 #### Documentation
 * [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown.
 
