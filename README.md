@@ -20,7 +20,7 @@
 * [그누보드](http://sir.co.kr) 일반적인 홈페이지에서 주로 사용하는 회원관리 및 게시판관리를 쉽게하기 위하여 개발된 웹프로그램 입니다.
 
 #### Database Tool
-* [올챙이](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
+* [올챙이(Tadpole DB Hub)](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
 
 #### Document Editor
 * [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown
