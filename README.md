@@ -1,6 +1,6 @@
 # KoreaOpenSource
 
-국산 오픈 소스 프로젝트들을 정리한 Repository입니다. 추가하시고 싶으신 내용은 Issues나 Pull Requests를 이용해주세요.
+국산 오픈 소스 프로젝트들을 정리한 Repository입니다. 추가하시고 싶으신 내용은 Issues나 Pull Requests를 이용해주세요. 이 문서는 계속 업데이트 됩니다.
 
 #### UI
 * [AXISJ](http://axisj.com) A full-stack JavaScript UI framework, It can be used easily and lightly, by excluding the load which a developer does not intend or which is heavier than application.
