@@ -18,10 +18,6 @@
 * [bsJS](https://github.com/projectBS/bsJS) A JavaScript library for DOM, CORE, utility and so on.
 	* BSD License
 
-#### Network
-* [Netty](http://netty.io) An asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
-	* Apache License 2.0
-
 #### CMS(Content Management System)
 * [XpressEngine](http://www.xpressengine.com) 누구나 쉽고 편하고 자유롭게 콘텐츠를 발행을 할 수 있도록 하기 위한 CMS(Content Management System)입니다.
 	* LGPL v2
