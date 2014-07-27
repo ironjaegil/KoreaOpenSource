@@ -51,6 +51,8 @@
 #### 기타
 * [Yobi](http://yobi.io) 소프트웨어 개발에 필요한 기능들을 사용하기 편리하게 웹으로 묶은 협업 개발 플랫폼입니다.
 	* Apache License 2.0
+* [StarUML](http://staruml.sourceforge.net/en/) The Open Source UML/MDA Platform.
+	* GPL v2
 
 ##### 작성자
 [심영재](http://hanul.me)
