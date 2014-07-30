@@ -12,6 +12,10 @@
 * [tipJS](http://tipjs-team.github.io/tipJS/) A small, simple, and effective JavaScript MVC Framework.
 	* MIT License & GPL v2 Dual
 
+#### WYSIWYG Editor
+* [Summernote](http://hackerwins.github.io/summernote/) Super Simple WYSIWYG Editor on Bootstrap.
+	* MIT License
+
 #### JavaScript Core
 * [JindoJS](http://jindo.dev.naver.com/jindo_home/JindoJS.html) Javascript Application 제작시에 반복적으로 발생하는 로직을 컴포넌트화하여 결과물의 품질을 향상시키기 위한 목적으로 작성되었습니다.
 	* LGPL v2
