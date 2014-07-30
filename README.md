@@ -46,11 +46,9 @@
 	* Server (include overall backend features) - GPL v3
 	* Client (ios, android, phonegap.. ) - Apache License 2.0
 
-#### Documentation
+#### Document Processor
 * [Haroopad](http://pad.haroopress.com) The Next Document processor based on Markdown.
 	* GPL v3
-* [Summernote](http://hackerwins.github.io/summernote/) Super simple WYSIWYG editor on bootstrap.
-	* MIT License
 
 #### 기타
 * [Yobi](http://yobi.io) 소프트웨어 개발에 필요한 기능들을 사용하기 편리하게 웹으로 묶은 협업 개발 플랫폼입니다.
