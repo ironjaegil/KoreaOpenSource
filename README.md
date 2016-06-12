@@ -34,12 +34,14 @@
 * [CUBRID](http://www.cubrid.com) 국내 유일의 오픈소스 DBMS로서, 인터넷 서비스 최적의 DBMS을 지향하고 있습니다.
 	* DBMS Engine - GPL v2
 	* Interface - BSD License
-* [올챙이(Tadpole DB Hub)](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리 하는 툴입니다.
+* [올챙이(Tadpole DB Hub)](https://sites.google.com/site/tadpolefordb/) 웹브라우저에서 Apache Hive, Apache Tajo, Amazon RDS, MongoDB, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL을 관리하는 툴입니다.
 	* LGPL
+* [Tajo](http://tajo.apache.org/) 하둡 기반의 대용량 데이터웨어 하우스 시스템입니다.
 
 #### Data Mining
 * [Ankus](http://openankus.org) MapReduce-based data mining / machine learning algorithms library.
 	* Apache License 2.0
+* [Zeppelin](http://zeppelin-project.org/) 웹 브라우저에서 Spark를 관리하는 툴입니다. 코드를 작성/관리/실행할 수 있고, 데이터 visualization까지 한번에 할 수 있는 툴입니다.
 
 #### QA
 * [UrQA](https://github.com/UrQA/URQA-Server) Crash report and QA for Android.
