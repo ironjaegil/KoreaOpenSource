@@ -5,9 +5,13 @@
 #### UI
 * [AXISJ](http://axisj.com) A full-stack JavaScript UI framework, It can be used easily and lightly, by excluding the load which a developer does not intend or which is heavier than application.
 	* LGPL v2
-	* Demonstration (http://dev.axisj.com)
-	* Documentation (http://jdoc.axisj.com)
+* [AX5UI](http://ax5.io) Javascript UI Plugins
+	* MIT License
 * [JUI](http://seogi1004.github.io/jui/) JUI는 제니퍼소프트의 차기작인 HTML5 기반의 APM 솔루션인 JENNIFER5에서 사용되는 UI 컴포넌트를 정리한 라이브러리입니다.
+	* MIT License
+
+#### Framework
+* [AXBOOT](http://axisj.com/axboot/) 풀스택 웹애플리케이션 프레임워크. 백엔드는 자바스프링기반하여 최적화 하였고, 프론트엔드 자체 개발한 AX5UI를 이용하여 SI업무를 할때 마다 반복되는 공통기능을 미리구현하였다. 미리제공되는 프로그램과 템플릿과 modelExtractor를 이용하여 새로운 프로그램을 추가하는 비용을 최소화 하였다. [api](https://api.axboot.com/) 
 	* MIT License
 
 #### MVC
